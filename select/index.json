@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヒロインとオオカミ",
+  "base_artist": "≠ME",
+  "createdAt": "2026-02-28T11:09:27.545429Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒロインとオオカミ",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_ヒロインとオオカミ_≠ME.txt"
+    }
+  ]
+}
